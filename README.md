@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **Machine Learning & ASP.Net**
 
-- 💬 Ask me about **Python & Java**
+- 💬 Ask me about **Python, C# & Java**
 
 - 📫 How to reach me **nasirsunny50@gmail.com**
 
