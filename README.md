@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirsunny50&label=Profile%20views&color=0e75b6&style=flat" alt="nasirsunny50" /> </p>
 
-- 🔭 I’m currently working on **Orion Group**
+- 🔭 I’m currently working on **Tiger IT Bangladesh Limited**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **SQA**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with **Machine Learning & ASP.Net**
+- 🤝 I’m looking for help with **Machine Learning & SQA**
 
 - 💬 Ask me about **Python, C# & Java**
 
