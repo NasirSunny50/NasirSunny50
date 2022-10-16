@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Nasir Sunny</h1>
-<h3 align="center">I'm a Student, Gamer, Developer, and Photographer!!</h3>
+<h3 align="center">I'm a Student, Gamer, Software Engineer QA, and Photographer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirsunny50&label=Profile%20views&color=0e75b6&style=flat" alt="nasirsunny50" /> </p>
 
-- 🔭 I’m currently working on **Tiger IT Bangladesh Limited**
+- 🔭 I’m currently working on **TigerIT Bangladesh Limited**
 
 - 🌱 I’m currently learning **SQA**
 
