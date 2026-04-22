@@ -1,17 +1,14 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0a1428,100:7b2fff&height=200&section=header&text=MD.%20NASIR%20UDDIN&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20SQA%20Engineer%20%7C%20Fintech%20Quality%20Specialist&descAlignY=58&descColor=00f5ff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,50:1a0a00,100:ff4500&height=200&section=header&text=MD.%20NASIR%20UDDIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20SQA%20Engineer%20%7C%20Fintech%20Quality%20Specialist&descAlignY=58&descColor=ffaa44&animation=fadeIn"/>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&lines=🧪+Senior+SQA+Engineer+%40+Kona+Software+Lab;🏦+Fintech+%26+Banking+App+Quality+Specialist;🤖+AI+%2F+ML+Enthusiast+%26+Python+Developer;📸+Photographer+%7C+Gamer+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=700&lines=🧪+Senior+SQA+Engineer+%40+Kona+Software+Lab;🏦+NexusPay+%26+MBL+Rainbow+Banking+Apps;🤖+AI+%2F+ML+Enthusiast+%26+Python+Developer;📸+Photographer+%7C+Gamer+%7C+Bug+Hunter)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=nasirsunny50&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=nasirsunny50&label=PROFILE+VIEWS&color=ff6a00&style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/nasirsunny50?label=FOLLOWERS&style=for-the-badge&color=7b2fff&labelColor=0a1428" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/nasirsunny50?label=FOLLOWERS&style=for-the-badge&color=ff4500&labelColor=1a0a00"/>
 
 </div>
 
@@ -19,92 +16,40 @@
 
 <div align="center">
 
-## ⚡ `whoami`
+## 👤 whoami
 
-</div>
+![Name](https://img.shields.io/badge/Name-Md.%20Nasir%20Uddin-ff6a00?style=for-the-badge)
+![Alias](https://img.shields.io/badge/Alias-Nasir%20Sunny-ff4500?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Senior%20SQA%20Engineer-cc3300?style=for-the-badge)
 
-```python
-class NasirUddin:
-    def __init__(self):
-        self.name        = "Md. Nasir Uddin"
-        self.alias       = "Nasir Sunny"
-        self.role        = "Senior SQA Engineer"
-        self.company     = "Kona Software Lab Ltd."
-        self.location    = "Mirpur, Dhaka, Bangladesh 🇧🇩"
-        self.education   = [
-            "M.IT  — Jahangirnagar University  (CGPA: 3.38)",
-            "B.Sc CSE — North South University (CGPA: 3.30)"
-        ]
-        self.expertise   = ["Manual Testing", "Test Automation", "API Testing",
-                            "Performance Testing", "Fintech QA", "Security Testing"]
-        self.languages   = ["Python 🐍", "Java ☕", "C#", "JavaScript"]
-        self.interests   = ["AI / Machine Learning", "Photography 📸", "Gaming 🎮"]
-        self.email       = "nasirsunny50@gmail.com"
+![Company](https://img.shields.io/badge/🏢%20Company-Kona%20Software%20Lab%20Ltd.-ff6a00?style=for-the-badge&labelColor=1a0a00)
+![Location](https://img.shields.io/badge/📍%20Location-Dhaka%2C%20Bangladesh-ff4500?style=for-the-badge&labelColor=1a0a00)
+![Email](https://img.shields.io/badge/📧%20Email-nasirsunny50%40gmail.com-cc3300?style=for-the-badge&labelColor=1a0a00)
 
-    def current_mission(self):
-        return "Ensuring flawless quality in NexusPay & MBL Rainbow banking apps 🏦"
+<br/>
 
-    def fun_fact(self):
-        return "I break software for a living — and I'm proud of it! 🧪💥"
+![BSc](https://img.shields.io/badge/🎓%20B.Sc%20CSE-North%20South%20University%20%7C%20CGPA%203.30-ff6a00?style=flat-square)
+![MIT](https://img.shields.io/badge/🎓%20M.IT-Jahangirnagar%20University%20%7C%20CGPA%203.38-ff4500?style=flat-square)
 
-me = NasirUddin()
-print(me.current_mission())
-```
+<br/>
 
----
+![QA](https://img.shields.io/badge/⚡-Manual%20Testing-ff6a00?style=flat-square)
+![Auto](https://img.shields.io/badge/⚡-Test%20Automation-ff5500?style=flat-square)
+![API](https://img.shields.io/badge/⚡-API%20Testing-ff4500?style=flat-square)
+![Perf](https://img.shields.io/badge/⚡-Performance%20Testing-cc3300?style=flat-square)
+![Sec](https://img.shields.io/badge/⚡-Security%20Testing-aa2200?style=flat-square)
+![Fin](https://img.shields.io/badge/⚡-Fintech%20QA-882200?style=flat-square)
 
-<div align="center">
+<br/>
 
-## 🏢 Experience Timeline
+![Python](https://img.shields.io/badge/💬-Python-ff6a00?style=flat-square)
+![Java](https://img.shields.io/badge/💬-Java-ff5500?style=flat-square)
+![CSharp](https://img.shields.io/badge/💬-C%23-ff4500?style=flat-square)
+![JS](https://img.shields.io/badge/💬-JavaScript-cc3300?style=flat-square)
 
-</div>
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        CAREER JOURNEY                               ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  🟢 [Jul 2025 → NOW]   Senior SQA Engineer                          ║
-║                         Kona Software Lab Ltd.                       ║
-║                         NexusPay (DBBL) • MBL Rainbow               ║
-║                                                                      ║
-║  🔵 [Feb 2025 → Jul 2025]  Senior Software Engineer QA              ║
-║                              TigerIT Bangladesh Ltd.                 ║
-║                                                                      ║
-║  🔵 [Oct 2022 → Feb 2025]  Software Engineer QA                     ║
-║                              TigerIT Bangladesh Ltd.                 ║
-║                              PIDS • ICT e-Governance Projects        ║
-║                                                                      ║
-║  🟣 [Jun 2022 → Aug 2022]  Senior Officer — IT & SAP PM Consultant  ║
-║                              Orion Group                             ║
-║                                                                      ║
-║  🟡 [May 2022]             Junior Trainee Officer                    ║
-║                              Padma Bank PLC.                         ║
-║                                                                      ║
-║  ⚪ [Oct 2021 → Feb 2022]  Software Engineer Intern                  ║
-║                              Orion Group                             ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-## 🧪 QA Arsenal
-
-</div>
-
-<div align="center">
-
-| 🔬 Testing Types | 🛠️ Tools & Frameworks | 💻 Programming |
-|:---:|:---:|:---:|
-| Manual Testing | Selenium | Python |
-| Test Automation | Robot Framework | Java |
-| API Testing | Postman • SoapUI | C# |
-| Performance Testing | JMeter | JavaScript |
-| Security Testing | Burp Suite | HTML • CSS |
-| Regression Testing | TestRail • Jira | SQL |
-| UAT | Microservices Testing | Android |
+![AI](https://img.shields.io/badge/🎯-AI%20%26%20Machine%20Learning-ff6a00?style=flat-square)
+![Photo](https://img.shields.io/badge/🎯-Photography-ff4500?style=flat-square)
+![Game](https://img.shields.io/badge/🎯-Gaming-cc3300?style=flat-square)
 
 </div>
 
@@ -112,47 +57,68 @@ print(me.current_mission())
 
 <div align="center">
 
-## 🚀 Tech Stack
+## 💼 Experience
 
-<!-- Row 1: Core Languages -->
-![Python](https://img.shields.io/badge/Python-0a1428?style=for-the-badge&logo=python&logoColor=00f5ff)
-![Java](https://img.shields.io/badge/Java-0a1428?style=for-the-badge&logo=openjdk&logoColor=00f5ff)
-![C#](https://img.shields.io/badge/C%23-0a1428?style=for-the-badge&logo=csharp&logoColor=7b2fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a1428?style=for-the-badge&logo=javascript&logoColor=00ff88)
-![HTML5](https://img.shields.io/badge/HTML5-0a1428?style=for-the-badge&logo=html5&logoColor=00f5ff)
-![CSS3](https://img.shields.io/badge/CSS3-0a1428?style=for-the-badge&logo=css3&logoColor=7b2fff)
+</div>
 
-<!-- Row 2: Testing Tools -->
-![Selenium](https://img.shields.io/badge/Selenium-0a1428?style=for-the-badge&logo=selenium&logoColor=00ff88)
-![Postman](https://img.shields.io/badge/Postman-0a1428?style=for-the-badge&logo=postman&logoColor=00f5ff)
-![JMeter](https://img.shields.io/badge/JMeter-0a1428?style=for-the-badge&logo=apachejmeter&logoColor=ff4444)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-0a1428?style=for-the-badge&logo=robot-framework&logoColor=00f5ff)
-![Jira](https://img.shields.io/badge/Jira-0a1428?style=for-the-badge&logo=jira&logoColor=00f5ff)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a1428?style=for-the-badge&logo=burpsuite&logoColor=ff8800)
+🟢 &nbsp;**[Jul 2025 → Present]** &nbsp;![Kona](https://img.shields.io/badge/Kona%20Software%20Lab%20Ltd.-ff6a00?style=flat-square) &nbsp;`Senior SQA Engineer`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ NexusPay (Dutch-Bangla Bank) • MBL Rainbow (Mercantile Bank)
 
-<!-- Row 3: AI / Data -->
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a1428?style=for-the-badge&logo=tensorflow&logoColor=ff6600)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a1428?style=for-the-badge&logo=pytorch&logoColor=ff4444)
-![scikit-learn](https://img.shields.io/badge/Scikit_Learn-0a1428?style=for-the-badge&logo=scikitlearn&logoColor=00f5ff)
-![Pandas](https://img.shields.io/badge/Pandas-0a1428?style=for-the-badge&logo=pandas&logoColor=7b2fff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a1428?style=for-the-badge&logo=opencv&logoColor=00ff88)
-![Kaggle](https://img.shields.io/badge/Kaggle-0a1428?style=for-the-badge&logo=kaggle&logoColor=00f5ff)
+🔶 &nbsp;**[Feb 2025 → Jul 2025]** &nbsp;![TigerIT](https://img.shields.io/badge/TigerIT%20Bangladesh%20Ltd.-ff5500?style=flat-square) &nbsp;`Senior Software Engineer QA`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ QA process improvements • Mentored junior engineers • Code reviews
 
-<!-- Row 4: DB / DevOps -->
-![MySQL](https://img.shields.io/badge/MySQL-0a1428?style=for-the-badge&logo=mysql&logoColor=00f5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1428?style=for-the-badge&logo=postgresql&logoColor=7b2fff)
-![MSSQL](https://img.shields.io/badge/SQL_Server-0a1428?style=for-the-badge&logo=microsoftsqlserver&logoColor=00f5ff)
-![Docker](https://img.shields.io/badge/Docker-0a1428?style=for-the-badge&logo=docker&logoColor=00f5ff)
-![Git](https://img.shields.io/badge/Git-0a1428?style=for-the-badge&logo=git&logoColor=ff6600)
-![Linux](https://img.shields.io/badge/Linux-0a1428?style=for-the-badge&logo=linux&logoColor=00ff88)
+🔷 &nbsp;**[Oct 2022 → Feb 2025]** &nbsp;![TigerIT](https://img.shields.io/badge/TigerIT%20Bangladesh%20Ltd.-cc3300?style=flat-square) &nbsp;`Software Engineer QA`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ PIDS (Prisoner Inmate Database) • ICT e-Governance Projects
 
-<!-- Row 5: Mobile / Misc -->
-![Android](https://img.shields.io/badge/Android-0a1428?style=for-the-badge&logo=android&logoColor=00ff88)
-![Flutter](https://img.shields.io/badge/Flutter-0a1428?style=for-the-badge&logo=flutter&logoColor=00f5ff)
-![Firebase](https://img.shields.io/badge/Firebase-0a1428?style=for-the-badge&logo=firebase&logoColor=ffcc00)
-![Unity](https://img.shields.io/badge/Unity-0a1428?style=for-the-badge&logo=unity&logoColor=ffffff)
-![Blender](https://img.shields.io/badge/Blender-0a1428?style=for-the-badge&logo=blender&logoColor=ff8800)
-![Photoshop](https://img.shields.io/badge/Photoshop-0a1428?style=for-the-badge&logo=adobephotoshop&logoColor=00f5ff)
+🟤 &nbsp;**[Jun 2022 → Aug 2022]** &nbsp;![Orion](https://img.shields.io/badge/Orion%20Group-882200?style=flat-square) &nbsp;`Senior Officer — IT & SAP PM Consultant`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ ERP Implementation • SAP PM Configuration & Data Migration
+
+🟡 &nbsp;**[May 2022]** &nbsp;![Padma](https://img.shields.io/badge/Padma%20Bank%20PLC.-664400?style=flat-square) &nbsp;`Junior Trainee Officer`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Android Development • Banking Digital Transformation
+
+⚪ &nbsp;**[Oct 2021 → Feb 2022]** &nbsp;![Orion](https://img.shields.io/badge/Orion%20Group-444444?style=flat-square) &nbsp;`Software Engineer Intern`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Web Optimization • System Documentation • Business Analysis
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-1a0a00?style=for-the-badge&logo=python&logoColor=ff6a00)
+![Java](https://img.shields.io/badge/Java-1a0a00?style=for-the-badge&logo=openjdk&logoColor=ff6a00)
+![C#](https://img.shields.io/badge/C%23-1a0a00?style=for-the-badge&logo=csharp&logoColor=ff4500)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0a00?style=for-the-badge&logo=javascript&logoColor=ffaa00)
+![HTML5](https://img.shields.io/badge/HTML5-1a0a00?style=for-the-badge&logo=html5&logoColor=ff6a00)
+![CSS3](https://img.shields.io/badge/CSS3-1a0a00?style=for-the-badge&logo=css3&logoColor=ff4500)
+
+![Selenium](https://img.shields.io/badge/Selenium-1a0a00?style=for-the-badge&logo=selenium&logoColor=ff6a00)
+![Postman](https://img.shields.io/badge/Postman-1a0a00?style=for-the-badge&logo=postman&logoColor=ff6a00)
+![JMeter](https://img.shields.io/badge/JMeter-1a0a00?style=for-the-badge&logo=apachejmeter&logoColor=ff4500)
+![Jira](https://img.shields.io/badge/Jira-1a0a00?style=for-the-badge&logo=jira&logoColor=ffaa00)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1a0a00?style=for-the-badge&logo=burpsuite&logoColor=ff6a00)
+![SoapUI](https://img.shields.io/badge/SoapUI-1a0a00?style=for-the-badge&logoColor=ff4500)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a0a00?style=for-the-badge&logo=tensorflow&logoColor=ff6a00)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a0a00?style=for-the-badge&logo=pytorch&logoColor=ff4500)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a0a00?style=for-the-badge&logo=opencv&logoColor=ffaa00)
+![scikit-learn](https://img.shields.io/badge/Scikit_Learn-1a0a00?style=for-the-badge&logo=scikitlearn&logoColor=ff6a00)
+![Pandas](https://img.shields.io/badge/Pandas-1a0a00?style=for-the-badge&logo=pandas&logoColor=ff4500)
+![Kaggle](https://img.shields.io/badge/Kaggle-1a0a00?style=for-the-badge&logo=kaggle&logoColor=ffaa00)
+
+![MySQL](https://img.shields.io/badge/MySQL-1a0a00?style=for-the-badge&logo=mysql&logoColor=ff6a00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0a00?style=for-the-badge&logo=postgresql&logoColor=ff4500)
+![Docker](https://img.shields.io/badge/Docker-1a0a00?style=for-the-badge&logo=docker&logoColor=ffaa00)
+![Git](https://img.shields.io/badge/Git-1a0a00?style=for-the-badge&logo=git&logoColor=ff6a00)
+![Linux](https://img.shields.io/badge/Linux-1a0a00?style=for-the-badge&logo=linux&logoColor=ff4500)
+![Android](https://img.shields.io/badge/Android-1a0a00?style=for-the-badge&logo=android&logoColor=ffaa00)
+
+![Flutter](https://img.shields.io/badge/Flutter-1a0a00?style=for-the-badge&logo=flutter&logoColor=ff6a00)
+![Firebase](https://img.shields.io/badge/Firebase-1a0a00?style=for-the-badge&logo=firebase&logoColor=ffcc00)
+![Unity](https://img.shields.io/badge/Unity-1a0a00?style=for-the-badge&logo=unity&logoColor=ff4500)
+![Blender](https://img.shields.io/badge/Blender-1a0a00?style=for-the-badge&logo=blender&logoColor=ff6a00)
+![Photoshop](https://img.shields.io/badge/Photoshop-1a0a00?style=for-the-badge&logo=adobephotoshop&logoColor=ffaa00)
+![Arduino](https://img.shields.io/badge/Arduino-1a0a00?style=for-the-badge&logo=arduino&logoColor=ff4500)
 
 </div>
 
@@ -162,10 +128,10 @@ print(me.current_mission())
 
 ## 📊 GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nasirsunny50&show_icons=true&theme=transparent&title_color=00f5ff&icon_color=7b2fff&text_color=c8e0ff&border_color=00f5ff&border_radius=10&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirsunny50&theme=transparent&ring=00f5ff&fire=7b2fff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=c8e0ff&border=00f5ff&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nasirsunny50&show_icons=true&theme=transparent&title_color=ff6a00&icon_color=ff4500&text_color=ffcc99&border_color=ff6a00&border_radius=10"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirsunny50&theme=transparent&ring=ff6a00&fire=ff4500&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=ffcc99&border=ff6a00&border_radius=10"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirsunny50&layout=donut&theme=transparent&title_color=00f5ff&text_color=c8e0ff&border_color=00f5ff&border_radius=10" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirsunny50&layout=donut&theme=transparent&title_color=ff6a00&text_color=ffcc99&border_color=ff6a00&border_radius=10"/>
 
 </div>
 
@@ -173,9 +139,9 @@ print(me.current_mission())
 
 <div align="center">
 
-## 🏆 Achievements
+## 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nasirsunny50&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=nasirsunny50&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -185,31 +151,21 @@ print(me.current_mission())
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1428?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://bd.linkedin.com/in/md-nasir-uddin-a650851a8)
-[![GitHub](https://img.shields.io/badge/GitHub-0a1428?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/nasirsunny50)
-[![Facebook](https://img.shields.io/badge/Facebook-0a1428?style=for-the-badge&logo=facebook&logoColor=00f5ff)](https://www.facebook.com/sup.sun)
-[![Instagram](https://img.shields.io/badge/Instagram-0a1428?style=for-the-badge&logo=instagram&logoColor=7b2fff)](https://www.instagram.com/nasir___sunny)
-[![Twitter](https://img.shields.io/badge/Twitter-0a1428?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/nasirsunny7)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0a1428?style=for-the-badge&logo=kaggle&logoColor=00f5ff)](https://kaggle.com/nasirsunny50)
-[![Email](https://img.shields.io/badge/Email-0a1428?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:nasirsunny50@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a1428?style=for-the-badge&logo=vercel&logoColor=00ff88)](https://nasirsunny50.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a00?style=for-the-badge&logo=linkedin&logoColor=ff6a00)](https://bd.linkedin.com/in/md-nasir-uddin-a650851a8)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0a00?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/nasirsunny50)
+[![Facebook](https://img.shields.io/badge/Facebook-1a0a00?style=for-the-badge&logo=facebook&logoColor=ff6a00)](https://www.facebook.com/sup.sun)
+[![Instagram](https://img.shields.io/badge/Instagram-1a0a00?style=for-the-badge&logo=instagram&logoColor=ff4500)](https://www.instagram.com/nasir___sunny)
+[![Twitter](https://img.shields.io/badge/Twitter-1a0a00?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/nasirsunny7)
+[![Kaggle](https://img.shields.io/badge/Kaggle-1a0a00?style=for-the-badge&logo=kaggle&logoColor=ffaa00)](https://kaggle.com/nasirsunny50)
+[![Email](https://img.shields.io/badge/Email-1a0a00?style=for-the-badge&logo=gmail&logoColor=ff4500)](mailto:nasirsunny50@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0a00?style=for-the-badge&logo=vercel&logoColor=ff6a00)](https://nasirsunny50.github.io)
 
 <br/>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasirsunny50/nasirsunny50/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasirsunny50/nasirsunny50/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nasirsunny50/nasirsunny50/output/github-snake-dark.svg" />
-</picture>
-
-<br/><br/>
-
-> *"Quality is never an accident; it is always the result of intelligent effort."*
-> — **Md. Nasir Uddin** 🧪
+> *"Quality is never an accident — it is always the result of intelligent effort."*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:0a1428,100:00f5ff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,50:1a0a00,100:ff6a00&height=120&section=footer"/>
 
 </div>
