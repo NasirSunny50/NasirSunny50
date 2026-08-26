@@ -120,12 +120,13 @@
 
 ## `$ gh stats --user nasirsunny50`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nasirsunny50&show_icons=true&theme=transparent&title_color=ff6a00&icon_color=ff4500&text_color=ffcc99&border_color=ff6a00&border_radius=6" alt="GitHub stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=nasirsunny50&theme=transparent&ring=ff6a00&fire=ff4500&currStreakLabel=ff6a00&sideLabels=ff6a00&dates=ffcc99&border=ff6a00&border_radius=6" alt="Streak"/>
+<!-- Rendered daily by .github/workflows/metrics.yml and committed into
+     assets/, so these cards are served from this repo and never rate-limited. -->
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasirsunny50&layout=compact&theme=transparent&title_color=ff6a00&text_color=ffcc99&border_color=ff6a00&border_radius=6" alt="Top languages"/>
+<img width="49%" src="./assets/metrics.svg" alt="GitHub overview"/>
+<img width="49%" src="./assets/metrics.activity.svg" alt="Commit calendar and achievements"/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nasirsunny50&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img width="49%" src="./assets/metrics.languages.svg" alt="Most used languages"/>
 
 ---
 
