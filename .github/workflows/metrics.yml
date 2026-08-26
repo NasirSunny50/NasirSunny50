@@ -52,7 +52,7 @@ jobs:
           plugin_languages_threshold: 1%
 
   activity:
-    name: Calendar and achievements card
+    name: Contributions calendar card
     needs: languages
     runs-on: ubuntu-latest
     steps:
@@ -66,9 +66,3 @@ jobs:
           config_timezone: Asia/Dhaka
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, sponsor, deployer, member, maintainer,
-            developer, scripter, packager, explorer
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
