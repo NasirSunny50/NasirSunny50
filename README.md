@@ -126,11 +126,7 @@
 <img width="49%" src="./assets/metrics.svg" alt="GitHub overview"/>
 <img width="49%" src="./assets/metrics.activity.svg" alt="Contributions calendar"/>
 
-<!-- The languages card stays parked until a personal access token is stored as
-     the METRICS_TOKEN secret. GITHUB_TOKEN only sees this one repository, so the
-     card renders as "0 Languages". Once the secret exists, uncomment this:
 <img width="49%" src="./assets/metrics.languages.svg" alt="Most used languages"/>
--->
 
 ---
 
